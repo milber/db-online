@@ -1,0 +1,205 @@
+fileignoreconfig:
+- filename: data-engineering-with-databricks/DE 1 - Databricks Workspace/DE 1.2 -
+    Notebook Basics.py
+  checksum: ba492dea96181ab363cc5e673885e5cc240be150c9c526d77695344991863ed6
+- filename: data-engineering-with-databricks/DE 2 - ETL with Spark/DE 2.1 - Querying
+    Files Directly.sql
+  checksum: 6b26d83f6f9609c6373957a2267c3e5e548aca815764769042049f40f371ec9a
+- filename: data-engineering-with-databricks/DE 2 - ETL with Spark/DE 2.2 - Providing
+    Options for External Sources.sql
+  checksum: f08afa15f0d422b6b38db95c976d87e7ceab3c2aca6829ec0db658f921517501
+- filename: data-engineering-with-databricks/DE 2 - ETL with Spark/DE 2.3L - Extract
+    Data Lab.sql
+  checksum: f5374ebfcb603783147e7bb0f7548a7688b622305542c6c3b7ef08c387526723
+- filename: data-engineering-with-databricks/DE 2 - ETL with Spark/DE 2.4 - Cleaning
+    Data.sql
+  checksum: b75ab328b90f6556fc0b8f847bcb31b9a5fed117170d74a8e574bef8afb2e7cf
+- filename: data-engineering-with-databricks/DE 2 - ETL with Spark/DE 2.5 - Complex
+    Transformations.sql
+  checksum: 3bd3caec6566e94ecc33260759e30b484170bf8563ed8523f9b5aa4fc6957f3d
+- filename: data-engineering-with-databricks/DE 2 - ETL with Spark/DE 2.6L - Reshape
+    Data Lab.sql
+  checksum: cb30106563b65314860eb90d97ebb757c7d04c718777774fbb10565c6c13f37a
+- filename: data-engineering-with-databricks/DE 2 - ETL with Spark/DE 2.7A - SQL UDFs.sql
+  checksum: f9bbf97a33d701566ca465e440a5daeec65a65e7f7f0d3902f43651bb1f57ae7
+- filename: data-engineering-with-databricks/DE 2 - ETL with Spark/DE 2.7B - Python
+    UDFs.py
+  checksum: 97a8495cbc6c3f30a49149b4478513880bdae1af6c360f2777fb7b0e8cf0c3ef
+- filename: data-engineering-with-databricks/DE 2 - ETL with Spark/DE 2.99 - OPTIONAL
+    Higher Order Functions.sql
+  checksum: 011d5452042d5e5b20984adc963237e6009acfe7612acc9796a1d7d8d6890558
+- filename: data-engineering-with-databricks/DE 3 - Delta Lake/DE 3.1 - Schemas and
+    Tables.sql
+  checksum: de09df979b2b8801d0a99520867b08a2a77f6588fc12b135cc7c63bdecdd725d
+- filename: data-engineering-with-databricks/DE 3 - Delta Lake/DE 3.2 - Set Up Delta
+    Tables.sql
+  checksum: de09a38be71257509c29373d9dd113b19cb98a537a66455764652b46a4869d19
+- filename: data-engineering-with-databricks/DE 3 - Delta Lake/DE 3.3 - Load Data
+    into Delta Lake.sql
+  checksum: 7c5d8b3d4b8633ff73a5324d4569c17686112b2bee9f9c6788e788817efed85d
+- filename: data-engineering-with-databricks/DE 3 - Delta Lake/DE 3.4L - Load Data
+    Lab.sql
+  checksum: 6f0253d3ce112cd4b07a3297aa155dc60a34c2d39e0806e90e44e48e035e2ab6
+- filename: data-engineering-with-databricks/DE 3 - Delta Lake/DE 3.5 - Version and
+    Optimize Delta Tables.sql
+  checksum: af1b1bf8d1e57674b896733372653b9adf6157d1e7552ff6631f008efb70d0ac
+- filename: data-engineering-with-databricks/DE 3 - Delta Lake/DE 3.6L - Manipulate
+    Delta Tables Lab.sql
+  checksum: a7eb5e33850a2ff1e02083b3f4dd909e91fe0ea0e50dc55ea42108c048de382d
+- filename: data-engineering-with-databricks/DE 3 - Delta Lake/Includes/Classroom-Setup-03.4L.py
+  checksum: 20fd185cce6eb23d22d74764226937b8446951e628e5c58f50994af91f6e86bb
+- filename: data-engineering-with-databricks/DE 3 - Delta Lake/Includes/Classroom-Setup-03.6L.py
+  checksum: 6f065e32ae2f747b75b3c0ee1d1338471f5f472cd224f5c53f80c9a0ffbdda6b
+- filename: data-engineering-with-databricks/DE 4 - Delta Live Tables/DE 4.1 - DLT
+    UI Walkthrough.py
+  checksum: 397fc19aedc44ab3fcff1321562e06e3b9a483d13869f205ae1f7b0a0ad712c3
+- filename: data-engineering-with-databricks/DE 4 - Delta Live Tables/DE 4.1A - SQL
+    Pipelines/DE 4.1.1 - Orders Pipeline.sql
+  checksum: fff35e0b83bf5801a43a5c883e6fa1e9ea3e63386ba69627d53e58dcaf1d9eef
+- filename: data-engineering-with-databricks/DE 4 - Delta Live Tables/DE 4.1A - SQL
+    Pipelines/DE 4.1.2 - Customers Pipeline.sql
+  checksum: 9e38bd3b4c47fa8b84f64ff4df96082ddecf13ad0bdc2dac7a32e54627c5d062
+- filename: data-engineering-with-databricks/DE 4 - Delta Live Tables/DE 4.1A - SQL
+    Pipelines/DE 4.1.3L - Status Pipeline Lab.sql
+  checksum: 97f03e9d7c8d3370ea9189214f6ca078e36b8be82e6101d2adf96d8160a9ed51
+- filename: data-engineering-with-databricks/DE 4 - Delta Live Tables/DE 4.1B - Python
+    Pipelines/DE 4.1.1 - Orders Pipeline.py
+  checksum: c1c0d34009e25714a82780ad3c33c9cc304583ee50d86ac13edbcb0b5a65df84
+- filename: data-engineering-with-databricks/DE 4 - Delta Live Tables/DE 4.1B - Python
+    Pipelines/DE 4.1.2 - Customers Pipeline.py
+  checksum: ae63ad1772723e3db057bcfa0917c7deb8d805f5799308469b53124ed844ad2b
+- filename: data-engineering-with-databricks/DE 4 - Delta Live Tables/DE 4.4 - Pipeline
+    Event Logs.py
+  checksum: 63fa7f1a757d5e565789bf51f05d8924152d620e7411ad9d6e5c1b1c07127b93
+- filename: data-engineering-with-databricks/DE 4 - Delta Live Tables/Includes/Classroom-Setup-04-Common.py
+  checksum: 783777d52ff118426cfc6b0a5a944e8c752fff8cff5facc4c30813f57e19a18c
+- filename: data-engineering-with-databricks/DE 5 - Workflow Jobs/DE 5.1 - Scheduling
+    Tasks with the Jobs UI/DE 5.1.3 - DLT Job.sql
+  checksum: 312dc0f5d30ae26d7a4880b3fb96be47d0883b01eca24caa2f88c0d0f794396a
+- filename: data-engineering-with-databricks/DE 5 - Workflow Jobs/DE 5.2L - Jobs Lab/DE
+    5.2.3L - DLT Job.sql
+  checksum: 7ff99e33568e8793e2209621a5eb39cbf4381915e739e68d519b3fd456134585
+- filename: data-engineering-with-databricks/DE 5 - Workflow Jobs/Includes/Classroom-Setup-05.1-Common.py
+  checksum: 5a75690ef78d242e8e0dc927d6bf1d10aa7725450d900d175df13b26c6fd1c0e
+- filename: data-engineering-with-databricks/DE 5 - Workflow Jobs/Includes/Classroom-Setup-05.2-Common.py
+  checksum: a844ed3d4d9f941ac10ef7d22a2ecd1e7f0a7e7fcd6ee21e18921b965d8560aa
+- filename: data-engineering-with-databricks/DE 6 - Managing Permissions/DE 6.1 -
+    Create and Govern Data with UC.sql
+  checksum: 8df903b6a15e2e1cc9afc494c79c3a72872d3901e39cba7afccde340f056f88d
+- filename: data-engineering-with-databricks/DE 6 - Managing Permissions/DE 6.2L -
+    Create and Share Tables in Unity Catalog.sql
+  checksum: b4486b8a669bcf718298fa3d72da723cb4a68e027f64db6251be7139dacb5546
+- filename: data-engineering-with-databricks/DE 6 - Managing Permissions/DE 6.3L -
+    Create Views and Limit Table Access.sql
+  checksum: b9ea0e0915486f6950cfd87502eb6c925257ecdb340d954709405f7bc8da819a
+- filename: data-engineering-with-databricks/Includes/_common.py
+  checksum: 6caecb0e2c7cef8d7e39a187826d46ff79242ed196d83528996764b87a96dd18
+- filename: data-engineering-with-databricks/Includes/_dataset_index.py
+  checksum: 55feed086b142884eb8b4e5bada64c1307fd81d7d287bfd2a7d20e07ccf3f2b7
+- filename: data-engineering-with-databricks/Includes/_multi-task-jobs-config.py
+  checksum: b4f905315f44f59e34e4253a17c7215bef82942e0660c7a6cf001ed5393d53b8
+- filename: data-engineering-with-databricks/Includes/_pipeline_config.py
+  checksum: 04ca124b2794f33b81075abdb10545d6fe0adffd41b6eb4ec25642a22bbc5ab2
+- filename: data-engineering-with-databricks/Solutions/DE 1 - Databricks Workspace/DE
+    1.2 - Notebook Basics.py
+  checksum: f12a06c8c961c3e2fe22153fc3c4bdade09494b90626954335f28ff543f139fa
+- filename: data-engineering-with-databricks/Solutions/DE 2 - ETL with Spark/DE 2.1
+    - Querying Files Directly.sql
+  checksum: b2b10db6bab540cc112547f388ab2481ee58cd79efe8f75d76fb2b9ae52720eb
+- filename: data-engineering-with-databricks/Solutions/DE 2 - ETL with Spark/DE 2.2
+    - Providing Options for External Sources.sql
+  checksum: c40840edc097887e99879d96b6a5b112ddb36a8826cbc6f4252fcdf4b9bbd6f9
+- filename: data-engineering-with-databricks/Solutions/DE 2 - ETL with Spark/DE 2.3L
+    - Extract Data Lab.sql
+  checksum: 6e1150d1babda0cebff17e4f3752908f268d612efd377025466cafb390150fe7
+- filename: data-engineering-with-databricks/Solutions/DE 2 - ETL with Spark/DE 2.4
+    - Cleaning Data.sql
+  checksum: d45a559f0f65512ef6090faad8e401ed8e72c708492b67459e171f6b8ecb6a36
+- filename: data-engineering-with-databricks/Solutions/DE 2 - ETL with Spark/DE 2.5
+    - Complex Transformations.sql
+  checksum: 78c8e669e2f1391956c6d405ef38e36b95909d7649a07c5fc4c3f40f9d5faf72
+- filename: data-engineering-with-databricks/Solutions/DE 2 - ETL with Spark/DE 2.6L
+    - Reshape Data Lab.sql
+  checksum: e0eeace4e7799c76c9e21239a14d731fc2bc47bbc10267f418f58255bf4dd026
+- filename: data-engineering-with-databricks/Solutions/DE 2 - ETL with Spark/DE 2.7A
+    - SQL UDFs.sql
+  checksum: 06e67dae5ff8e893cc837b5c8bd7170903f162a9d83d3570f2003000a52feec3
+- filename: data-engineering-with-databricks/Solutions/DE 2 - ETL with Spark/DE 2.7B
+    - Python UDFs.py
+  checksum: 18ba9f4cf9f71cb713bd9400fa4d0c79bd6d19f3715886c9aa1c106bdb269b6c
+- filename: data-engineering-with-databricks/Solutions/DE 2 - ETL with Spark/DE 2.99
+    - OPTIONAL Higher Order Functions.sql
+  checksum: 0360c67f19d635fd3460f8115519c31396ab73b381b69eeb0a8bdce964080c82
+- filename: data-engineering-with-databricks/Solutions/DE 3 - Delta Lake/DE 3.1 -
+    Schemas and Tables.sql
+  checksum: f7e2fc41f55589840bf76042656278377265e63ed0fcf76c64d23be6a037c0e4
+- filename: data-engineering-with-databricks/Solutions/DE 3 - Delta Lake/DE 3.2 -
+    Set Up Delta Tables.sql
+  checksum: ba9a406a8987f4099d993a5d77c37b7ae11fbf585481f4f311a07db4700305bb
+- filename: data-engineering-with-databricks/Solutions/DE 3 - Delta Lake/DE 3.3 -
+    Load Data into Delta Lake.sql
+  checksum: bdef974f41691388eceba0e129782a17bc4ea52576c5e7d069b106ed1f247b61
+- filename: data-engineering-with-databricks/Solutions/DE 3 - Delta Lake/DE 3.4L -
+    Load Data Lab.sql
+  checksum: e2bd5909b7134b80cf232cbf6a0868f9bc9401ce446f8a6fb86a077562ae10f3
+- filename: data-engineering-with-databricks/Solutions/DE 3 - Delta Lake/DE 3.5 -
+    Version and Optimize Delta Tables.sql
+  checksum: c95966a4d6a4a6b54a16289d726fa369b868653e9815294f62ec55aa47c98e8e
+- filename: data-engineering-with-databricks/Solutions/DE 3 - Delta Lake/DE 3.6L -
+    Manipulate Delta Tables Lab.sql
+  checksum: 632772c684003a3feed4807d5a3be0c54d1dcece0ced67347db100385dae65ce
+- filename: data-engineering-with-databricks/Solutions/DE 3 - Delta Lake/Includes/Classroom-Setup-03.4L.py
+  checksum: 7a2d3749297448cfeaae5a513dd997e60be8509ea456a82dba6edfeb9b8ff793
+- filename: data-engineering-with-databricks/Solutions/DE 3 - Delta Lake/Includes/Classroom-Setup-03.6L.py
+  checksum: 53fe8b05ec34f368472918334e91b434e41254a6661592a6cc83d8d04383e855
+- filename: data-engineering-with-databricks/Solutions/DE 4 - Delta Live Tables/DE
+    4.1 - DLT UI Walkthrough.py
+  checksum: 83b74d0b58e31a7ebe4b62040eeacdf3ef7111159d0adeed32bed36cc47a5717
+- filename: data-engineering-with-databricks/Solutions/DE 4 - Delta Live Tables/DE
+    4.1A - SQL Pipelines/DE 4.1.1 - Orders Pipeline.sql
+  checksum: 209234f87c5eda7f552855555e333c5936eac752ba89a44294a20fcf87284984
+- filename: data-engineering-with-databricks/Solutions/DE 4 - Delta Live Tables/DE
+    4.1A - SQL Pipelines/DE 4.1.2 - Customers Pipeline.sql
+  checksum: b9c2aea23772e18b9d9af4a7e8550bf6e437780c24c0add7cf806a907b10bc7f
+- filename: data-engineering-with-databricks/Solutions/DE 4 - Delta Live Tables/DE
+    4.1A - SQL Pipelines/DE 4.1.3L - Status Pipeline Lab.sql
+  checksum: 83e19a0c8d889e57366440ca9a649b77ce7bb1597d0d2b4aaf6ba97122d2cfee
+- filename: data-engineering-with-databricks/Solutions/DE 4 - Delta Live Tables/DE
+    4.1B - Python Pipelines/DE 4.1.1 - Orders Pipeline.py
+  checksum: 93fbece54c52cc1d5b4935075b4c2aac99a4b51f982dc56d4f0a88dc846c8c59
+- filename: data-engineering-with-databricks/Solutions/DE 4 - Delta Live Tables/DE
+    4.1B - Python Pipelines/DE 4.1.2 - Customers Pipeline.py
+  checksum: 992e86bca992a76e34d6ca520158711fb95770f605d9cfc1ddbd66b536d869fa
+- filename: data-engineering-with-databricks/Solutions/DE 4 - Delta Live Tables/DE
+    4.4 - Pipeline Event Logs.py
+  checksum: 1c9134838a22717cd881a445107ee631cd7632bdccfc6f9e0ffda2890afa56f4
+- filename: data-engineering-with-databricks/Solutions/DE 4 - Delta Live Tables/Includes/Classroom-Setup-04-Common.py
+  checksum: e61fdd275a20db451a09c545d8de010eb25cc3ce3bf321634f90efcc37fd3f8e
+- filename: data-engineering-with-databricks/Solutions/DE 5 - Workflow Jobs/DE 5.1
+    - Scheduling Tasks with the Jobs UI/DE 5.1.3 - DLT Job.sql
+  checksum: 4219face8641f01645e167d863ea5fa51be1f5afbe055db72ecec40b0f7d4fdd
+- filename: data-engineering-with-databricks/Solutions/DE 5 - Workflow Jobs/DE 5.2L
+    - Jobs Lab/DE 5.2.3L - DLT Job.sql
+  checksum: a7833c9c2ad78299b8425118714bd0acf4cce580fdcb467d66d54f466a820779
+- filename: data-engineering-with-databricks/Solutions/DE 5 - Workflow Jobs/Includes/Classroom-Setup-05.1-Common.py
+  checksum: d8266e88ecf2918da375b3108fab51ae5c01dd2dbb211787da393599aa9c879a
+- filename: data-engineering-with-databricks/Solutions/DE 5 - Workflow Jobs/Includes/Classroom-Setup-05.2-Common.py
+  checksum: 7967c2f12ab5ed74e71eeaae885d13d383b36b122f86e6ff3578fea2d5f4f0b3
+- filename: data-engineering-with-databricks/Solutions/DE 6 - Managing Permissions/DE
+    6.1 - Create and Govern Data with UC.sql
+  checksum: e2729025cd8c40253aa0d9b7ec540959e58aec3b28debf8013b67e624c5f40d0
+- filename: data-engineering-with-databricks/Solutions/DE 6 - Managing Permissions/DE
+    6.2L - Create and Share Tables in Unity Catalog.sql
+  checksum: ea4bb45d67c97cb042d8e6abe08bfdd70bc230eae0c2dad76905f101cb9672c3
+- filename: data-engineering-with-databricks/Solutions/DE 6 - Managing Permissions/DE
+    6.3L - Create Views and Limit Table Access.sql
+  checksum: f60c967b66258eae1b14b96824e875440fbfd2b3e16b0055272a36fc0d67e2ed
+- filename: data-engineering-with-databricks/Solutions/Includes/_common.py
+  checksum: cdc1a07fb8e21fc047bbe7fb78545488782b9b703cb4344dcb82e879b15815b5
+- filename: data-engineering-with-databricks/Solutions/Includes/_dataset_index.py
+  checksum: 46925f50a81a8b09fcde1f4eba418bcc46daa788ac1a064a3c919faa822ae2fa
+- filename: data-engineering-with-databricks/Solutions/Includes/_multi-task-jobs-config.py
+  checksum: 7ad945c2834a9d1ffccd5b7b9a02312ff55030f4617fc2f2a1abe2df46a0afe2
+- filename: data-engineering-with-databricks/Solutions/Includes/_pipeline_config.py
+  checksum: 78b9794ac779a51c4b079b68e4839c7926f424345c4bcbe483735c5c0a1e0657
+version: "1.0"
